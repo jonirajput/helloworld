@@ -1,0 +1,12 @@
+{
+    "name": "joni/hello-world",
+    "description": "My first composer project just for learning",
+    "authors": [
+        {
+            "name": "Joni Rajput",
+            "email": "joni@sendinblue.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
